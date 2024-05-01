@@ -22,4 +22,11 @@
         android:name="Francisco.Nataren.myapplication.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/fragment_Contactanos"
+        android:name="Francisco.Nataren.myapplication.Fragment_Contactanos"
+        android:label="fragment__contactanos"
+        tools:layout="@layout/fragment__contactanos" />
+
+
 </navigation>
